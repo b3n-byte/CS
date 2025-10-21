@@ -2,6 +2,7 @@
 My computer science pilgrimage
 
 All my progress and projects in CS, the bible of logic.
+
 What I record:
 - projects I have completed
 - Notes from textbooks and acquired theory
