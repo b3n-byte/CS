@@ -3,3 +3,5 @@
 .upper() --- makes a string all uppercase
 
 .title() --- makes the first letter after whitespace a capital
+
+\t and \n --- inserts a tab or a new line
