@@ -12,7 +12,7 @@ list.insert(0, 12) --- inserts a value into a list but does not replace, list[0]
 
 del list[2] --- completely removes the value at 2 so 3 from the list, remember: completely removes
 
-popped_list = list.pop() --- popped_list is now a variable for 5, by default pop() pops the last value in a list. Although methods such as pop(0) are completely valid. Finally, pop is used instead of del when you want to use the value after
+popped_list = list.pop() --- popped_list is now a variable for 5, by default pop() pops the last value in a list. Although methods such as pop(0) are completely valid. Finally, pop is used instead of del when you want to use the value instead of losing it
 
 1 = number_first and
 list.remove(number_first) --- python removes 1 from the list, bear in mind that 1 could be in the list more than once- python will stop after finding the first 1
