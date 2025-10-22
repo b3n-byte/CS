@@ -1,0 +1,1 @@
+- you can assign multiple variables at once, ie x, y, z = 1, 2, 3
