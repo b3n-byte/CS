@@ -6,4 +6,5 @@
 
 - when writing large numbers use _
 
+- constants are variables that never change value, write these in capital letters
 
