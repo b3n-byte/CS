@@ -16,3 +16,13 @@ popped_list = list.pop() --- popped_list is now a variable for 5, by default pop
 
 1 = number_first and
 list.remove(number_first) --- python removes 1 from the list, bear in mind that 1 could be in the list more than once- python will stop after finding the first 1
+
+list.sort(reverse=True) --- if the list was lowercase letters, this would return the list in the opposite of alaphebetical order (and permenently change it)
+
+print(sorted(list)) --- this would print the list in alphabetical order but not store the list as this new order
+
+list.reverse() --- reverses the order of a list
+
+len(list) --- finds the length of a list (starting from 1)
+
+
