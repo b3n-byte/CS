@@ -25,4 +25,6 @@ list.reverse() --- reverses the order of a list
 
 len(list) --- finds the length of a list (starting from 1)
 
+min(),max() and sum() do what is obvious to a list of numbers
+
 
