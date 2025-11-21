@@ -27,6 +27,6 @@ len(list) --- finds the length of a list (starting from 1)
 
 min(),max() and sum() do what is obvious to a list of numbers, use min(list)
 
-print(list[0:3]) --- slices the list and returns values 1, 2, 3 corresponding to 0, 1 and 2
+print(list[0:3]) --- slices the list and returns values 1, 2, 3 corresponding to 0, 1 and 2, missing out the first or second nymber tells python either do it from start or to end of list
 
 
